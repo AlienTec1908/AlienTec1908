@@ -25,8 +25,4 @@ If my work is helpful, feel free to:
 
 Collaboration strengthens the community and pushes security forward.
 
----
-
-## Contact
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)  
-- Email: [your-email@example.com](mailto:your-email@example.com)
+--- 
