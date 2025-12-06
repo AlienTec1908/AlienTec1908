@@ -1,16 +1,32 @@
-## Hallo, ich bin Ben, ein leidenschaftlicher Cybersecurity Enthusiast und Entwickler. Mit meinen Open-Source-Projekten strebe ich danach, die digitale Sicherheit zu verbessern und innovative Lösungen zu entwickeln. Deine Unterstützung hilft mir, meine Arbeit voranzutreiben und die Community zu stärken. 👋
+# Ben (AlienTec) 👋
 
-<!--
-**AlienTec1908/AlienTec1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a cybersecurity professional and developer with a strong focus on offensive security, exploit development, and creating innovative open-source solutions. My work combines hands-on technical expertise with a passion for strengthening digital security.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Expertise
+- 🛡 **Penetration Testing & Red Teaming**  
+- 💻 **Exploit Development & Reverse Engineering**  
+- 🔧 **Security Tools & Automation**  
+- 🌐 **Open-Source Projects**
+
+---
+
+## About This GitHub
+I use this space to share tools, scripts, and research that help the community improve security practices. Every project here reflects practical, real-world skills in cybersecurity and software development.
+
+---
+
+## Get Involved
+If my work is helpful, feel free to:  
+- ⭐ Star projects  
+- 📝 Contribute  
+- 💬 Provide feedback  
+
+Collaboration strengthens the community and pushes security forward.
+
+---
+
+## Contact
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)  
+- Email: [your-email@example.com](mailto:your-email@example.com)
