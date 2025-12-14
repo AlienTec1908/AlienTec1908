@@ -1,5 +1,5 @@
 <!-- Header Image -->
-![AlienTec Header](AlienTec.png)
+<img src="AlienTec.png"</img>
 
 # Ben (AlienTec) 👋
 
