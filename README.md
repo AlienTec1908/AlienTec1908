@@ -1,5 +1,5 @@
 <!-- Header Image -->
-<img src="AlienTec.png"</img>
+<img src="AlienTec.png" alt="Security Researcher">
 
 # Ben (AlienTec) 👋
 
