@@ -25,6 +25,6 @@ If my work is helpful, feel free to:
 
 Collaboration strengthens the community and pushes security forward.
 ## My Blog
-[![neu](https://www.bentexx1908.de/aboutme.html)
+# https://www.bentexx1908.de/aboutme.html
 
 --- 
