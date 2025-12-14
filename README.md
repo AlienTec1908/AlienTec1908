@@ -1,30 +1,40 @@
+<!-- Header / Background Image -->
+![Header Image](https://via.placeholder.com/1200x300?text=Ben+%28AlienTec%29)
+
 # Ben (AlienTec) 👋
 
 I’m a cybersecurity professional and developer with a strong focus on offensive security, exploit development, and creating innovative open-source solutions. My work combines hands-on technical expertise with a passion for strengthening digital security.
 
 ---
 
-## Core Expertise
-- 🛡 **Penetration Testing & Red Teaming**  
-- 💻 **Exploit Development & Reverse Engineering**  
-- 🔧 **Security Tools & Automation**  
-- 🌐 **Open-Source Projects**
+## 🛡 Core Expertise
+- **Penetration Testing & Red Teaming** 💻
+- **Exploit Development & Reverse Engineering** 🔧
+- **Security Tools & Automation** ⚙️
+- **Open-Source Projects** 🌐
 
 ---
 
-## About This GitHub
-I use this space to share tools, scripts, and research that help the community improve security practices. Every project here reflects practical, real-world skills in cybersecurity and software development.
+## 🔥 About This GitHub
+I use this space to share **tools, scripts, and writeups** that help the community level up in security.  
+Everything here is **practical, real-world, and battle-tested**.
 
 ---
 
-## Get Involved
-If my work is helpful, feel free to:  
-- ⭐ Star projects  
-- 📝 Contribute  
-- 💬 Provide feedback  
+## 🚀 Get Involved
+If my work helps you, you can:
+1. ⭐ Star projects
+2. 📝 Contribute
+3. 💬 Provide feedback  
 
-Collaboration strengthens the community and pushes security forward.
-## My Blog
-# [About Me](https://www.bentexx1908.de/aboutme.html)
+Collaboration is the fastest way to push security forward.
 
---- 
+---
+
+## 🌐 My Blog
+Check out my technical writeups, life in cyber, and personal projects:  
+[https://www.bentexx1908.de/aboutme.html](https://www.bentexx1908.de/aboutme.html)
+
+---
+
+> “I don’t just test systems—I build, break, and teach how to defend them.”
