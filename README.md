@@ -1,7 +1,8 @@
-# Ben (AlienTec) 👋
 <!-- Header / Background Image -->
-![Header Image](![AlienTec](AlienTec.png)
-)
+![AlienTec](AlienTec.png)
+
+# Ben (AlienTec) 👋
+
 I’m a cybersecurity professional and developer with a strong focus on offensive security, exploit development, and creating innovative open-source solutions. My work combines hands-on technical expertise with a passion for strengthening digital security.
 
 ---
