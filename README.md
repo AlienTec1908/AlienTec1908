@@ -24,5 +24,7 @@ If my work is helpful, feel free to:
 - 💬 Provide feedback  
 
 Collaboration strengthens the community and pushes security forward.
+## My Blog
+[![neu](https://github.com/user-attachments/assets/6c6cab97-4a77-4c9e-a8a1-6ff55e1e464d)](https://www.bentexx1908.de/aboutme.html)
 
 --- 
