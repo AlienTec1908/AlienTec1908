@@ -1,5 +1,5 @@
-<!-- Header / Background Image -->
-![AlienTec](AlienTec.png)
+<!-- Header Image -->
+![AlienTec Header](AlienTec.png)
 
 # Ben (AlienTec) 👋
 
