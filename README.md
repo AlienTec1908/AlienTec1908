@@ -1,8 +1,7 @@
-<!-- Header / Background Image -->
-![Header Image](https://via.placeholder.com/1200x300?text=Ben+%28AlienTec%29)
-
 # Ben (AlienTec) 👋
-
+<!-- Header / Background Image -->
+![Header Image](![AlienTec](https://github.com/user-attachments/assets/9025cadf-316e-46dc-89a8-7d35feb740ba)
+)
 I’m a cybersecurity professional and developer with a strong focus on offensive security, exploit development, and creating innovative open-source solutions. My work combines hands-on technical expertise with a passion for strengthening digital security.
 
 ---
