@@ -37,4 +37,4 @@ Check out my technical writeups, life in cyber, and personal projects:
 
 ---
 
-> “I don’t just test systems—I build, break, and teach how to defend them.”
+> “I don’t just test systems - I build, break, and teach how to defend them.”
