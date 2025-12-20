@@ -15,6 +15,21 @@ I’m a cybersecurity professional and developer with a strong focus on offensiv
 
 ---
 
+## 🏗️ Current Research & Development
+
+**Project: Advanced Automated Recon & Initial Access Framework**
+
+I am currently architecting a modular security framework designed to bridge the gap between reconnaissance and initial access through intelligent automation.
+
+*   **Recursive Intelligence:** Implementing deep-dive scanning logic that automatically re-evaluates new findings to map the entire attack surface.
+*   **Full-Spectrum Recon:** Automated discovery of subdomains, services, and hidden assets with integrated vulnerability mapping.
+*   **Initial Access Evaluation:** Developing logic to identify and validate potential entry points, streamlining the transition from recon to exploitation.
+*   **Status:** In active development / Alpha stage.
+
+> *"The goal is to automate the noise so I can focus on the complex exploits."*
+
+---
+
 ## 🔥 About This GitHub
 I use this space to share **tools, scripts, and writeups** that help the community level up in security.  
 Everything here is **practical, real-world, and battle-tested**.
