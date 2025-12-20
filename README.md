@@ -38,3 +38,14 @@ Check out my technical writeups, life in cyber, and personal projects:
 ---
 
 > “I don’t just test systems - I build, break, and teach how to defend them.”
+<!-- Footer / Trademark -->
+<br />
+<br />
+<div align="center">
+  <hr style="background-color: #30363d; height: 1px; border: none;" />
+  <br />
+  <h1>👽</h1>
+  <sup><strong>AlienTec Offensive Research</strong></sup>
+  <br />
+  <samp>Digital Footprint: 1908-ALN-TC</samp>
+</div>
