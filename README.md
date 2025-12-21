@@ -1,21 +1,19 @@
 <!-- Header Image -->
 <img src="AlienTec.png" alt="Security Researcher">
 
-<div align="center">
-  <h1><code> AlienTec’s Overflow </code></h1>
-  <strong>flooding your system, hacking your mind.</strong>
-  <br />
-  <code> SYSTEMS </code> • <code> API </code> • <code> APPSEC </code>
-  <br />
-  <strong>Live Threat Emulation</strong>
-</div>
+# Ben (AlienTec) 👋
+
+I’m a cybersecurity professional and developer with a strong focus on offensive security, exploit development, and creating innovative open-source solutions. My work combines hands-on technical expertise with a passion for strengthening digital security.
 
 ---
 
-# Security Researcher
-### Ben (AlienTec) 👋
+## 🛡 Core Expertise
+- **Penetration Testing & Red Teaming** 💻
+- **Exploit Development & Reverse Engineering** 🔧
+- **Security Tools & Automation** ⚙️
+- **Open-Source Projects** 🌐
 
-I’m a cybersecurity professional and developer with a strong focus on offensive security, exploit development, and creating innovative open-source solutions. My work combines hands-on technical expertise with a passion for strengthening digital security.
+---
 
 ## 🏗️ Current Research & Development
 
@@ -28,26 +26,35 @@ I am currently architecting a modular security framework designed to bridge the 
 *   **Initial Access Evaluation:** Developing logic to identify and validate potential entry points, streamlining the transition from recon to exploitation.
 *   **Status:** In active development / Alpha stage.
 
+> *"The goal is to automate the noise so I can focus on the complex exploits."*
+
 ---
 
-## 🛡️ Core Expertise
-* Penetration Testing & Red Teaming 💻
-* Exploit Development & Reverse Engineering 🔧
-* Security Tools & Automation ⚙️
-* Open-Source Projects 🌐
-
 ## 🔥 About This GitHub
-I use this space to share tools, scripts, and writeups that help the community level up in security. Everything here is practical, real-world, and battle-tested.
+I use this space to share **tools, scripts, and writeups** that help the community level up in security.  
+Everything here is **practical, real-world, and battle-tested**.
+
+---
 
 ## 🚀 Get Involved
-If my work helps you, you can star projects, contribute or provide feedback. Collaboration is the fastest way to push security forward.
+If my work helps you, you can:
+1. ⭐ Star projects
+2. 📝 Contribute
+3. 💬 Provide feedback  
+
+Collaboration is the fastest way to push security forward.
+
+---
 
 ## 🌐 My Blog
-Check out my technical writeups, life in cyber, and personal projects:
-https://www.bentexx1908.de/aboutme.html
+Check out my technical writeups, life in cyber, and personal projects:  
+[https://www.bentexx1908.de/aboutme.html](https://www.bentexx1908.de/aboutme.html)
 
-> *"I don’t just test systems - I build, break, and teach how to defend them."*
+---
 
+> “I don’t just test systems - I build, break, and teach how to defend them.”
+<!-- Footer / Trademark -->
+<br />
 <br />
 <div align="center">
   <hr style="background-color: #30363d; height: 1px; border: none;" />
