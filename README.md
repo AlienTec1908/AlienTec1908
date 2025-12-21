@@ -3,7 +3,7 @@
 
 # Ben (AlienTec) 👋
 
-I’m a cybersecurity professional and developer with a strong focus on offensive security, exploit development, and creating innovative open-source solutions. My work combines hands-on technical expertise with a passion for strengthening digital security.
+I’m a cybersecurity professional and developer dedicated to scaling red team operations through modular, logic-driven solutions. My work focuses on the convergence of manual tradecraft and automated heuristics, combining hands-on technical expertise with a passion for innovative open-source exploit development.
 
 ---
 
