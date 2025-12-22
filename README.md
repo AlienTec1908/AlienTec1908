@@ -61,7 +61,7 @@ If this tool helps you, please consider showing your appreciation in one of two 
 | Give a Star | Become a Sponsor |
 | :--- | :--- |
 | The easiest way to say "thanks"! Starring the repo helps others discover it. | Directly fund the development of new features and the planned Pro version. |
-| **[➡️ View My Repositories](https://github.com/AlienTec1908?tab=repositories)**  | **[➡️ Sponsor on GitHub](https://github.com/sponsors/AlienTec1908)** |
+| **[⭐➡️ View My Repositories](https://github.com/AlienTec1908?tab=repositories)**  | **[➡️ Sponsor on GitHub](https://github.com/sponsors/AlienTec1908)** |
 
 ---
 
