@@ -52,6 +52,19 @@ Check out my technical writeups, life in cyber, and personal projects:
 
 ---
 
+### ❤️ Your Support is Rocket Fuel for This Project! 🚀
+
+This is a free, open-source tool, and your support is what keeps it alive and growing.
+
+If this tool helps you, please consider showing your appreciation in one of two simple ways:
+
+| Give a Star | Become a Sponsor |
+| :--- | :--- |
+| The easiest way to say "thanks"! Starring the repo helps others discover it. | Directly fund the development of new features and the planned Pro version. |
+| **[➡️ Star the Project](https://github.com/AlienTec1908/AlienTec-Recon-Tool/stargazers)** | **[➡️ Sponsor on GitHub](https://github.com/sponsors/AlienTec1908)** |
+
+---
+
 > “I don’t just test systems - I build, break, and teach how to defend them.”
 <!-- Footer / Trademark -->
 <br />
