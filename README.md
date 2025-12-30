@@ -6,7 +6,13 @@
 I’m a cybersecurity professional and developer dedicated to scaling red team operations through modular, logic-driven solutions. My work focuses on the convergence of manual tradecraft and automated heuristics, combining hands-on technical expertise with a passion for innovative open-source exploit development.
 
 ---
+# 🚀 Next Release....
 
+<p align="center">
+  <img src="nextrecon.jpg" alt="agent-image-ripper cover" width="50%" style="height: 20rem;">
+</p>
+
+---
 ## 🛡 Core Expertise
 - **Penetration Testing & Red Teaming** 💻
 - **Exploit Development & Reverse Engineering** 🔧
