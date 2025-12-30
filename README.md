@@ -6,7 +6,8 @@
 I’m a cybersecurity professional and developer dedicated to scaling red team operations through modular, logic-driven solutions. My work focuses on the convergence of manual tradecraft and automated heuristics, combining hands-on technical expertise with a passion for innovative open-source exploit development.
 
 ---
-# 🚀 Next Release....
+<p align="center">
+# 🚀 Next Release....</p>
 
 <p align="center">
   <img src="nextrecon2.jpg" alt="agent-image-ripper cover" width="70%" style="height: auto;">
