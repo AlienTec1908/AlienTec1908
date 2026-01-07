@@ -10,7 +10,7 @@ I’m a cybersecurity professional and developer dedicated to scaling red team o
 # 🚀 Next Release....
 
 <p align="center">
-  <img src="nextrecon2.jpg" alt="agent-image-ripper cover" width="70%" style="height: auto;">
+  <img src="alientec.jpg" alt="agent-image-ripper cover" width="70%" style="height: auto;">
 </p>
 
 ---
